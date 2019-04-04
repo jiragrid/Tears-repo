@@ -1,4 +1,6 @@
+def hello_se():
+        print("hello ,world!\n")
 def main():
-	print("hello ,world\n")
-if __name___=='__main__':
+	hello_se()
+if __name__=='__main__':
 	main()
